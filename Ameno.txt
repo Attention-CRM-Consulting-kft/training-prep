@@ -3,8 +3,13 @@ Repo for git training.
 # @adam.polyak@attentioncrm.com
 # in the repository training-git
 
+<<<<<<< HEAD
 Edited only and only by Admin
 We continue with Everyone's favorite song.
+=======
+Edited only by Admin. Haha, not just like that!
+We continue with Everyone's favorite song. Not Everyones, maybe just the Admins
+>>>>>>> 6666aa87fe46a7c8adfdad5f0a7836c3ff2e8af3
 
 ERA - Ameno:
 
@@ -26,5 +31,10 @@ Omenare imperavi emulari, ameno
 -------Users might be able to edit this:-------
 apolyak
 bejczi
+<<<<<<< HEAD
 foldii
 dturi
+=======
+folid
+trolluser
+>>>>>>> 6666aa87fe46a7c8adfdad5f0a7836c3ff2e8af3
