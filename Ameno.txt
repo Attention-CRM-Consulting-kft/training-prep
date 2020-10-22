@@ -3,7 +3,7 @@ Repo for git training.
 # @adam.polyak@attentioncrm.com
 # in the repository training-git
 
-Edited only by Admin.
+Edited only and only by Admin
 We continue with Everyone's favorite song.
 
 ERA - Ameno:
@@ -26,4 +26,5 @@ Omenare imperavi emulari, ameno
 -------Users might be able to edit this:-------
 apolyak
 bejczi
-folid
+foldii
+dturi
