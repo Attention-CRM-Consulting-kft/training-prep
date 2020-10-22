@@ -1,5 +1,10 @@
 # training-prep
-Repo for Training Preparation. Edited only by admin. I SAY: only Admin!!
+
+Repo for Training Preparation. Edited only by admin. Hahaha!
 new line
 new line
-vhk voltam - elvágtáztam | Na vágtázzál el innnenfele gyorsan!
+vhk voltam - elvágtáztam
+Valami tündöklő!
+
+
+
